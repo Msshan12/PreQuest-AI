@@ -1,0 +1,6 @@
+Flask
+openai
+python-docx
+fpdf
+python-dotenv
+nest_asyncio
